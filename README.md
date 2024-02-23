@@ -121,6 +121,14 @@ These changes aim to improve the semantic structure, accessibility, and SEO opti
 Overall, the changes aim to improve readability, organization, and consistency in the CSS code.
 </details>
 
+## Installation
+The project was uploaded to [Github](github.com) at the following repository:
+https://github.com/PrestonNguyen2001/CodingRefactorChallenge
+
+You can access the deployed application here:
+https://prestonnguyen2001.github.io/CodingRefactorChallenge/
+
+
 ## Usage
 <details>
 <summary>Click to Expand</summary>
